@@ -1,6 +1,6 @@
 # Scientific Computing Exercises 🧑‍💻
 
-Welcome to the **ScComp** repository! This repo contains Jupyter Notebooks featuring various scientific computing exercises that I’ve been practicing. The primary focus is on **NumPy** and its wide range of functions, as well as simulations of **random walks** using Bernoulli and other equations.
+Welcome to the **ScComp** repository! This repo contains Jupyter Notebooks featuring various scientific computing exercises that I’ve been practising. The primary focus is on **NumPy** and its wide range of functions, as well as simulations of **random walks** using Bernoulli and other equations. 
 
 ---
 
@@ -19,3 +19,5 @@ Welcome to the **ScComp** repository! This repo contains Jupyter Notebooks featu
 
 ---
 
+*Disclaimer:*
+*Please note that these exercises are given as part of a module in KCL*.
